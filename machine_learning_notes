@@ -38,3 +38,9 @@ loss functons L(Y, f(X)) penalize errors in predictions
 
 common to use Y - f(X)^2
 
+normalization resources:
+http://scikit-learn.org/stable/modules/preprocessing.html
+http://www.faqs.org/faqs/ai-faq/neural-nets/part2/section-16.html
+
+beautiful soup is used to read html for data scraping
+Mechanize also useful
