@@ -44,3 +44,33 @@ http://www.faqs.org/faqs/ai-faq/neural-nets/part2/section-16.html
 
 beautiful soup is used to read html for data scraping
 Mechanize also useful
+
+what you do for the training set e.g., normalize, you must do to the test set (normalize with numbers used to normalize training set)
+
+
+clustering: unsupervised. Picking class labels when labels are not known
+classificiation: supervised
+semi-supervised: data set where you have some labeled data, mostly not
+
+what did we do today?
+learn that there are a bunch of measures of how well your model is doing
+
+knn:
+    find nearest neighors
+    compare neighbors to known labels 
+kmeans:
+    choose centroids
+    assign clusters based on centroids
+    move centroid to average point of each cluster
+    repeat until convergence
+    diff between initializations and iterations
+
+
+what am I confused about?
+scoring models
+cross validation and scoring based on that and all the types of scorings as mentioned above
+
+note:
+In machine learning, a hyperparameter is a parameter whose value is set before the learning process begins. By contrast, the values of other parameters are derived via training.
+
+
