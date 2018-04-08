@@ -70,7 +70,16 @@ what am I confused about?
 scoring models
 cross validation and scoring based on that and all the types of scorings as mentioned above
 
+adjusted rand score:
+http://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html
+
+The Rand Index computes a similarity measure between two clusterings by considering all pairs of samples and counting pairs that are assigned in the same or different clusters in the predicted and true clusterings.
+
 note:
 In machine learning, a hyperparameter is a parameter whose value is set before the learning process begins. By contrast, the values of other parameters are derived via training.
 
+resources for week 10
+
+http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html
+scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.pairwise_distances.html
 
